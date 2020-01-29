@@ -18,3 +18,4 @@
 		-bitnami wamp(window apache mysql php, 를 한번에 설치/관리 하게해주는 툴)을 사용하여 웹개발 환경 구축
 		-bitnami의 document root 인 htdoc에 나의 html 파일과 css파일을 저장해주어야 페이지를 받아올수있음(root폴더는 꼭 htdoc가 아니어도됨/ 수정가능)
 		-bitnami wamp manager의 경우 컴퓨터 재부팅시 mysql과 apache 서버들을 자동으로 실행시켜주지 않을수 있기 때문에 이부분을 꼭 먼저 확인해야함 
+	- git(버전관리) 관련 강의 영상 보고 실습 및 나의 웹페이지 개발내용 새 repository 만들고 commit 시키기
